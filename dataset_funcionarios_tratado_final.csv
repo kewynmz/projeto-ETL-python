@@ -1,0 +1,883 @@
+Nome,Idade,Salario,Estado,Data_Admissao,Cargo
+Maria Souza,19.0,139490,Rio de Janeiro,03/07/2020,Técnico
+Bruno Almeida,20.0,22880,São Paulo,08/10/2020,Técnico
+Bruno Almeida,32.0,91590,Santa Catarina,27/01/2018,Gerente
+Juliana Santos,24.0,33190,Minas Gerais,10/01/2022,Analista
+Bruno Almeida,23.0,108440,São Paulo,08/12/2024,Cientista de Dados
+Carlos Oliveira,23.0,56140,São Paulo,12/02/2021,Estagiário
+Carlos Oliveira,62.0,129990,São Paulo,13/02/2025,Desenvolvedor
+Lucas Pereira,32.0,130160,Minas Gerais,27/07/2020,Analista
+Camila Martins,63.0,69550,RJ,07/08/2023,Cientista de Dados
+Lucas Pereira,52.0,61040,Santa Catarina,18/07/2024,Estagiário
+Lucas Pereira,18.0,129450,São Paulo,09/01/2024,Cientista de Dados
+João Silva,64.0,135910,Rio de Janeiro,01/02/2020,Desenvolvedor
+Camila Martins,30.0,43040,Minas Gerais,19/01/2024,Técnico
+Pedro Lima,26.0,126090,Paraná,08/11/2019,Desenvolvedor
+Ana Costa,63.0,69070,Minas Gerais,15/04/2025,Cientista de Dados
+Maria Souza,50.0,56990,Rio de Janeiro,12/06/2023,Cientista de Dados
+Ana Costa,48.0,84690,RJ,02/02/2019,Analista
+Maria Souza,21.0,83960,Minas Gerais,15/10/2020,Analista
+Ana Costa,22.0,90600,Bahia,27/07/2018,Analista
+Ana Costa,28.0,84580,São Paulo,25/05/2020,Estagiário
+Fernanda Rocha,36.0,87300,Bahia,21/01/2026,Cientista de Dados
+Lucas Pereira,21.0,140540,Minas Gerais,25/07/2018,Analista
+Lucas Pereira,23.0,48440,São Paulo,10/06/2018,Desenvolvedor
+Camila Martins,56.0,24510,Santa Catarina,14/09/2022,Analista
+Juliana Santos,33.0,61510,Minas Gerais,14/07/2025,Técnico
+Fernanda Rocha,57.0,110240,São Paulo,12/01/2024,Analista
+Ana Costa,41.0,64690,São Paulo,02/04/2024,Estagiário
+Lucas Pereira,37.0,126680,São Paulo,19/12/2020,Técnico
+Ana Costa,63.0,74170,RJ,10/02/2025,Cientista de Dados
+Bruno Almeida,35.0,25220,São Paulo,20/06/2019,Gerente
+Carlos Oliveira,41.0,148430,São Paulo,05/10/2020,Gerente
+Bruno Almeida,57.0,140790,São Paulo,28/10/2019,Técnico
+Bruno Almeida,60.0,138430,RJ,15/10/2019,Gerente
+Fernanda Rocha,40.0,68000,RJ,04/07/2018,Técnico
+Carlos Oliveira,40.0,123100,Bahia,15/08/2025,Estagiário
+Camila Martins,34.0,24260,São Paulo,15/11/2022,Desenvolvedor
+Ana Costa,41.0,88660,São Paulo,14/09/2021,Cientista de Dados
+Carlos Oliveira,60.0,84910,Minas Gerais,26/10/2025,Estagiário
+Pedro Lima,57.0,111240,Rio de Janeiro,23/02/2024,Estagiário
+Juliana Santos,47.0,90380,Paraná,25/05/2020,Cientista de Dados
+  Maria Souza  ,36.0,102450,Santa Catarina,18/01/2019,Gerente
+Ana Costa,48.0,118150,São Paulo,25/08/2022,Estagiário
+Pedro Lima,59.0,130660,São Paulo,08/10/2022,Analista
+Ana Costa,25.0,92780,São Paulo,27/06/2025,Estagiário
+Camila Martins,64.0,100700,Minas Gerais,01/01/2023,Desenvolvedor
+Carlos Oliveira,51.0,97390,RJ,07/12/2022,Gerente
+Bruno Almeida,44.0,106180,São Paulo,22/06/2020,Desenvolvedor
+Bruno Almeida,26.0,93640,São Paulo,01/12/2020,Analista
+Carlos Oliveira,44.0,59330,São Paulo,21/03/2018,Estagiário
+João Silva,19.0,58510,RJ,19/12/2024,Analista
+Fernanda Rocha,62.0,59980,Minas Gerais,17/10/2024,Técnico
+Carlos Oliveira,24.0,112810,São Paulo,16/06/2024,Gerente
+Camila Martins,62.0,120760,RJ,26/10/2025,Analista
+João Silva,40.0,105280,Minas Gerais,26/02/2022,Cientista de Dados
+Maria Souza,45.0,77340,Paraná,19/09/2019,Cientista de Dados
+Lucas Pereira,48.0,94160,Minas Gerais,23/08/2024,Cientista de Dados
+Fernanda Rocha,33.0,140950,Paraná,11/04/2024,Desenvolvedor
+Ana Costa,40.0,148710,São Paulo,19/02/2021,Gerente
+Maria Souza,33.0,135970,Minas Gerais,24/03/2024,Estagiário
+Maria Souza,36.0,54300,Minas Gerais,23/09/2020,Cientista de Dados
+Lucas Pereira,39.0,75640,Paraná,09/06/2021,Gerente
+Pedro Lima,30.0,53450,Paraná,15/02/2026,Gerente
+Ana Costa,36.0,55270,São Paulo,23/05/2021,Técnico
+Carlos Oliveira,62.0,38680,Paraná,20/02/2018,Analista
+Carlos Oliveira,48.0,36690,São Paulo,08/07/2023,Estagiário
+Carlos Oliveira,23.0,58660,São Paulo,09/01/2022,Desenvolvedor
+Ana Costa,34.0,126200,São Paulo,09/09/2020,Técnico
+Fernanda Rocha,36.0,23340,RJ,05/12/2025,Gerente
+Camila Martins,60.0,149710,RJ,16/04/2019,Estagiário
+João Silva,28.0,147860,Rio de Janeiro,20/05/2024,Desenvolvedor
+Ana Costa,61.0,112240,Santa Catarina,16/07/2025,Analista
+Fernanda Rocha,35.0,47730,Santa Catarina,13/02/2025,Estagiário
+  Maria Souza  ,28.0,72030,Minas Gerais,23/07/2023,Cientista de Dados
+Maria Souza,38.0,59350,Minas Gerais,14/07/2022,Analista
+Carlos Oliveira,46.0,132400,Paraná,29/04/2018,Analista
+Lucas Pereira,44.0,33270,RJ,06/03/2023,Analista
+Carlos Oliveira,44.0,97050,Paraná,14/02/2023,Técnico
+Pedro Lima,22.0,63260,Minas Gerais,11/09/2023,Gerente
+Fernanda Rocha,27.0,91160,Bahia,14/11/2021,Estagiário
+Pedro Lima,49.0,24060,São Paulo,14/08/2024,Desenvolvedor
+Bruno Almeida,59.0,31150,Minas Gerais,26/12/2023,Cientista de Dados
+Lucas Pereira,20.0,119160,São Paulo,29/01/2025,Técnico
+Maria Souza,58.0,133320,São Paulo,13/11/2019,Estagiário
+Juliana Santos,41.0,88560,São Paulo,16/12/2023,Técnico
+Bruno Almeida,57.0,129920,RJ,16/07/2024,Estagiário
+Fernanda Rocha,36.0,129010,Bahia,30/10/2018,Técnico
+Carlos Oliveira,47.0,67490,RJ,03/06/2023,Estagiário
+Carlos Oliveira,19.0,125840,Minas Gerais,02/03/2018,Gerente
+Fernanda Rocha,36.0,145090,RJ,14/12/2021,Desenvolvedor
+Pedro Lima,58.0,33910,São Paulo,11/12/2022,Gerente
+Bruno Almeida,29.0,50890,São Paulo,02/07/2022,Desenvolvedor
+Fernanda Rocha,36.0,140310,Minas Gerais,03/04/2023,Analista
+Bruno Almeida,53.0,77920,São Paulo,27/02/2018,Estagiário
+Camila Martins,42.0,122610,Minas Gerais,27/07/2025,Analista
+Camila Martins,32.0,124110,São Paulo,17/03/2023,Cientista de Dados
+Carlos Oliveira,49.0,37020,São Paulo,11/01/2024,Técnico
+Lucas Pereira,44.0,114220,São Paulo,06/05/2025,Estagiário
+Juliana Santos,31.0,90640,Paraná,25/01/2022,Técnico
+  João Silva  ,43.0,63200,RJ,06/02/2023,Analista
+Juliana Santos,33.0,38630,Santa Catarina,10/09/2018,Técnico
+  Pedro Lima  ,56.0,18460,Rio de Janeiro,17/06/2019,Técnico
+Maria Souza,48.0,91440,Minas Gerais,28/08/2024,Desenvolvedor
+Lucas Pereira,37.0,93040,São Paulo,16/05/2023,Analista
+Maria Souza,38.0,117660,São Paulo,01/06/2019,Analista
+Camila Martins,51.0,66310,Paraná,15/10/2024,Desenvolvedor
+Lucas Pereira,64.0,53220,Minas Gerais,24/07/2020,Estagiário
+Maria Souza,65.0,139040,Minas Gerais,28/03/2024,Técnico
+Juliana Santos,60.0,140920,Minas Gerais,30/07/2018,Cientista de Dados
+Fernanda Rocha,32.0,35730,Minas Gerais,14/02/2022,Desenvolvedor
+Camila Martins,57.0,128580,Bahia,30/10/2024,Analista
+Maria Souza,65.0,104910,RJ,16/09/2022,Estagiário
+Fernanda Rocha,44.0,62750,RJ,12/04/2019,Desenvolvedor
+Carlos Oliveira,20.0,54120,Minas Gerais,13/08/2018,Desenvolvedor
+Carlos Oliveira,38.0,37650,São Paulo,30/10/2022,Estagiário
+Juliana Santos,22.0,83050,São Paulo,18/03/2018,Estagiário
+Bruno Almeida,36.0,36870,Minas Gerais,23/08/2021,Analista
+Maria Souza,45.0,35340,RJ,09/08/2024,Estagiário
+Juliana Santos,28.0,30510,Bahia,13/04/2019,Cientista de Dados
+Pedro Lima,33.0,34840,São Paulo,19/03/2020,Gerente
+Fernanda Rocha,47.0,141600,Santa Catarina,13/01/2023,Desenvolvedor
+Juliana Santos,27.0,90050,São Paulo,17/12/2022,Estagiário
+Lucas Pereira,42.0,93810,Santa Catarina,18/06/2018,Desenvolvedor
+Fernanda Rocha,51.0,103640,Santa Catarina,30/01/2022,Técnico
+João Silva,58.0,124050,Minas Gerais,12/09/2021,Analista
+Camila Martins,27.0,72610,São Paulo,11/06/2025,Desenvolvedor
+Pedro Lima,56.0,134130,São Paulo,08/04/2024,Gerente
+Lucas Pereira,23.0,123840,Minas Gerais,22/01/2022,Desenvolvedor
+Fernanda Rocha,30.0,55110,São Paulo,13/11/2018,Técnico
+Lucas Pereira,20.0,126450,Minas Gerais,21/06/2019,Desenvolvedor
+Pedro Lima,64.0,89700,São Paulo,02/01/2022,Estagiário
+Fernanda Rocha,32.0,105490,RJ,06/04/2023,Gerente
+Carlos Oliveira,42.0,100390,Bahia,26/10/2019,Estagiário
+Juliana Santos,53.0,34800,Bahia,13/03/2021,Analista
+Ana Costa,19.0,70210,São Paulo,16/04/2025,Cientista de Dados
+Fernanda Rocha,56.0,105820,São Paulo,10/12/2023,Cientista de Dados
+Ana Costa,54.0,86250,São Paulo,30/06/2025,Cientista de Dados
+Lucas Pereira,53.0,21330,Minas Gerais,28/06/2018,Estagiário
+Fernanda Rocha,62.0,96400,São Paulo,16/09/2018,Técnico
+Ana Costa,20.0,69700,Rio de Janeiro,20/06/2022,Desenvolvedor
+João Silva,59.0,72380,Rio de Janeiro,16/02/2022,Analista
+Pedro Lima,49.0,131380,Paraná,28/10/2023,Gerente
+Pedro Lima,52.0,66130,Minas Gerais,24/11/2018,Analista
+Fernanda Rocha,40.0,91250,São Paulo,15/12/2021,Cientista de Dados
+Maria Souza,60.0,122450,Minas Gerais,10/03/2023,Gerente
+Fernanda Rocha,20.0,38680,São Paulo,27/03/2025,Técnico
+Fernanda Rocha,41.0,78950,Paraná,08/06/2024,Analista
+Maria Souza,19.0,138530,São Paulo,22/10/2023,Estagiário
+Ana Costa,57.0,64780,Paraná,18/05/2019,Técnico
+Maria Souza,61.0,70360,Minas Gerais,23/09/2018,Cientista de Dados
+Pedro Lima,41.0,101350,RJ,03/04/2020,Analista
+Fernanda Rocha,53.0,39260,Santa Catarina,27/09/2018,Analista
+Bruno Almeida,54.0,30080,São Paulo,16/03/2025,Gerente
+Pedro Lima,28.0,70860,RJ,27/10/2023,Gerente
+Pedro Lima,58.0,67610,Santa Catarina,18/01/2019,Desenvolvedor
+Ana Costa,54.0,86250,Santa Catarina,05/05/2018,Cientista de Dados
+Pedro Lima,38.0,135690,Minas Gerais,15/11/2021,Cientista de Dados
+Pedro Lima,38.0,112640,Minas Gerais,15/10/2019,Técnico
+Fernanda Rocha,36.0,105930,São Paulo,01/11/2022,Analista
+Bruno Almeida,21.0,111430,Bahia,24/01/2022,Técnico
+Camila Martins,61.0,118110,São Paulo,01/02/2019,Técnico
+Pedro Lima,56.0,102460,São Paulo,16/11/2024,Gerente
+Juliana Santos,50.0,101510,Bahia,12/12/2025,Estagiário
+Bruno Almeida,55.0,68400,São Paulo,28/04/2023,Desenvolvedor
+João Silva,55.0,96710,São Paulo,20/01/2025,Desenvolvedor
+João Silva,54.0,132770,São Paulo,19/03/2018,Técnico
+Camila Martins,48.0,138550,São Paulo,20/07/2019,Cientista de Dados
+Juliana Santos,29.0,93310,Bahia,16/02/2024,Gerente
+Carlos Oliveira,57.0,97320,RJ,16/02/2021,Técnico
+Ana Costa,62.0,133500,Paraná,20/05/2023,Gerente
+Camila Martins,61.0,106990,Minas Gerais,14/11/2021,Estagiário
+Fernanda Rocha,59.0,60010,Paraná,04/07/2020,Técnico
+Maria Souza,61.0,144280,São Paulo,04/03/2024,Analista
+Ana Costa,36.0,70620,Rio de Janeiro,31/08/2018,Cientista de Dados
+João Silva,29.0,86460,São Paulo,15/06/2022,Analista
+João Silva,18.0,66880,Santa Catarina,16/03/2019,Desenvolvedor
+Pedro Lima,50.0,94680,Rio de Janeiro,07/04/2019,Técnico
+Juliana Santos,36.0,111020,RJ,11/07/2024,Técnico
+Maria Souza,29.0,41030,Paraná,13/10/2020,Gerente
+Carlos Oliveira,55.0,136430,Santa Catarina,12/07/2020,Analista
+Pedro Lima,43.0,130400,Bahia,27/06/2021,Cientista de Dados
+Ana Costa,26.0,96340,São Paulo,17/10/2024,Estagiário
+Ana Costa,33.0,129460,Santa Catarina,23/11/2023,Analista
+Lucas Pereira,50.0,51120,Santa Catarina,06/09/2019,Desenvolvedor
+Camila Martins,49.0,32890,Bahia,16/08/2018,Estagiário
+Lucas Pereira,21.0,29300,Paraná,21/03/2021,Analista
+Bruno Almeida,41.0,80660,Paraná,19/03/2022,Estagiário
+  Juliana Santos  ,25.0,47240,São Paulo,07/12/2023,Estagiário
+Carlos Oliveira,47.0,128340,Bahia,19/12/2023,Estagiário
+Maria Souza,20.0,126160,São Paulo,06/03/2018,Desenvolvedor
+João Silva,33.0,139330,São Paulo,03/12/2022,Estagiário
+Carlos Oliveira,32.0,137850,Santa Catarina,23/06/2024,Gerente
+Lucas Pereira,32.0,85750,Rio de Janeiro,09/07/2018,Gerente
+Bruno Almeida,53.0,99200,São Paulo,20/03/2025,Gerente
+Carlos Oliveira,42.0,48120,Bahia,14/09/2020,Estagiário
+Lucas Pereira,44.0,86240,Bahia,04/07/2019,Desenvolvedor
+Juliana Santos,23.0,105750,RJ,04/01/2021,Analista
+  Camila Martins  ,64.0,128010,Bahia,18/05/2023,Técnico
+Ana Costa,65.0,37220,Paraná,20/10/2025,Técnico
+Carlos Oliveira,42.0,94390,Bahia,11/01/2022,Cientista de Dados
+Fernanda Rocha,38.0,51280,Minas Gerais,23/08/2022,Gerente
+Camila Martins,55.0,135960,Minas Gerais,17/09/2019,Gerente
+Juliana Santos,34.0,143060,Paraná,13/03/2025,Cientista de Dados
+Camila Martins,48.0,126010,Paraná,28/01/2018,Analista
+Carlos Oliveira,19.0,100280,Minas Gerais,15/03/2019,Técnico
+Juliana Santos,35.0,148240,Minas Gerais,09/03/2022,Analista
+Maria Souza,59.0,124470,São Paulo,19/07/2022,Analista
+Maria Souza,49.0,89090,Minas Gerais,26/01/2019,Desenvolvedor
+Camila Martins,48.0,62410,São Paulo,04/09/2025,Analista
+Juliana Santos,19.0,51940,Santa Catarina,29/12/2025,Técnico
+Bruno Almeida,61.0,106560,Minas Gerais,28/07/2019,Estagiário
+Bruno Almeida,32.0,30450,São Paulo,19/11/2024,Desenvolvedor
+Fernanda Rocha,49.0,55370,Minas Gerais,18/03/2022,Desenvolvedor
+Carlos Oliveira,33.0,134830,São Paulo,02/01/2021,Analista
+Juliana Santos,24.0,32990,São Paulo,27/12/2022,Gerente
+Bruno Almeida,18.0,65810,Minas Gerais,13/12/2018,Estagiário
+Pedro Lima,61.0,80370,São Paulo,06/01/2021,Técnico
+Carlos Oliveira,48.0,146230,São Paulo,27/10/2020,Gerente
+Pedro Lima,37.0,19100,Minas Gerais,15/12/2024,Gerente
+Camila Martins,26.0,67220,Minas Gerais,18/10/2025,Desenvolvedor
+Fernanda Rocha,54.0,146110,RJ,21/03/2022,Gerente
+Camila Martins,52.0,47470,Bahia,26/02/2026,Analista
+Maria Souza,44.0,128260,Paraná,07/02/2025,Técnico
+Maria Souza,46.0,115960,Paraná,30/06/2022,Desenvolvedor
+Juliana Santos,62.0,105960,Santa Catarina,15/12/2018,Cientista de Dados
+  Camila Martins  ,32.0,91030,Minas Gerais,03/12/2023,Estagiário
+Maria Souza,36.0,86150,São Paulo,10/03/2026,Analista
+Juliana Santos,48.0,33990,Paraná,24/10/2025,Cientista de Dados
+Juliana Santos,59.0,35910,São Paulo,26/09/2020,Cientista de Dados
+Ana Costa,43.0,121170,São Paulo,03/08/2025,Técnico
+Camila Martins,45.0,81700,São Paulo,29/05/2020,Cientista de Dados
+Lucas Pereira,29.0,77930,Minas Gerais,18/02/2023,Técnico
+Camila Martins,42.0,118150,Minas Gerais,13/04/2019,Desenvolvedor
+Carlos Oliveira,57.0,114690,São Paulo,03/07/2019,Cientista de Dados
+Lucas Pereira,42.0,86520,Santa Catarina,12/06/2024,Técnico
+Pedro Lima,53.0,45330,Paraná,29/07/2019,Gerente
+João Silva,49.0,40360,RJ,19/04/2024,Estagiário
+Fernanda Rocha,49.0,45400,São Paulo,07/05/2018,Desenvolvedor
+Fernanda Rocha,54.0,139650,Paraná,24/09/2023,Desenvolvedor
+Lucas Pereira,20.0,142510,Paraná,14/06/2020,Desenvolvedor
+João Silva,46.0,61050,Minas Gerais,04/12/2022,Analista
+Juliana Santos,63.0,117980,Minas Gerais,28/11/2024,Técnico
+Lucas Pereira,35.0,115780,Bahia,18/08/2021,Técnico
+Maria Souza,26.0,140890,Minas Gerais,02/09/2021,Analista
+Ana Costa,61.0,82340,Paraná,23/06/2024,Técnico
+Maria Souza,43.0,102470,São Paulo,20/02/2022,Cientista de Dados
+Maria Souza,64.0,93110,Minas Gerais,30/12/2023,Analista
+Carlos Oliveira,39.0,107670,Santa Catarina,07/05/2024,Técnico
+Fernanda Rocha,19.0,38350,São Paulo,13/02/2023,Estagiário
+Carlos Oliveira,64.0,132590,RJ,08/05/2025,Estagiário
+Ana Costa,51.0,129400,Paraná,02/03/2018,Analista
+Fernanda Rocha,22.0,55510,Minas Gerais,13/03/2026,Analista
+Pedro Lima,44.0,118930,Paraná,22/12/2018,Técnico
+João Silva,60.0,67420,RJ,21/10/2024,Desenvolvedor
+Ana Costa,49.0,81220,São Paulo,08/09/2023,Técnico
+Juliana Santos,26.0,81370,Santa Catarina,02/05/2022,Estagiário
+João Silva,55.0,29060,São Paulo,02/06/2020,Gerente
+Lucas Pereira,44.0,87390,Minas Gerais,03/08/2025,Analista
+Ana Costa,27.0,105880,Minas Gerais,30/07/2024,Estagiário
+Bruno Almeida,64.0,57090,São Paulo,20/12/2018,Técnico
+Pedro Lima,25.0,20070,São Paulo,16/02/2018,Cientista de Dados
+Carlos Oliveira,28.0,78920,São Paulo,01/05/2021,Cientista de Dados
+  Camila Martins  ,28.0,78240,São Paulo,26/02/2019,Gerente
+João Silva,33.0,25530,São Paulo,18/04/2022,Gerente
+João Silva,29.0,54560,Bahia,01/07/2022,Analista
+Maria Souza,53.0,92830,São Paulo,01/04/2020,Gerente
+Camila Martins,49.0,144580,São Paulo,17/02/2024,Cientista de Dados
+João Silva,39.0,18230,Minas Gerais,26/02/2026,Cientista de Dados
+João Silva,27.0,134590,Rio de Janeiro,29/06/2018,Analista
+Ana Costa,36.0,60760,Minas Gerais,11/10/2025,Estagiário
+Pedro Lima,55.0,35850,São Paulo,05/11/2019,Analista
+Ana Costa,46.0,68510,Paraná,07/05/2019,Gerente
+João Silva,31.0,71700,São Paulo,22/12/2025,Analista
+Pedro Lima,19.0,84250,Paraná,03/03/2024,Desenvolvedor
+João Silva,32.0,39410,RJ,03/05/2022,Estagiário
+Maria Souza,19.0,28560,RJ,22/12/2022,Cientista de Dados
+Fernanda Rocha,21.0,45520,Santa Catarina,15/02/2026,Estagiário
+Pedro Lima,35.0,63850,Paraná,22/05/2018,Técnico
+Lucas Pereira,48.0,27990,São Paulo,18/04/2022,Gerente
+Lucas Pereira,19.0,80660,Minas Gerais,09/02/2024,Estagiário
+João Silva,38.0,115830,RJ,24/02/2021,Analista
+Ana Costa,28.0,34400,RJ,14/09/2020,Cientista de Dados
+Ana Costa,54.0,148640,Minas Gerais,13/12/2019,Gerente
+Camila Martins,19.0,133250,Minas Gerais,27/04/2024,Desenvolvedor
+Lucas Pereira,41.0,29880,Minas Gerais,05/06/2025,Cientista de Dados
+Bruno Almeida,58.0,97820,Minas Gerais,12/06/2025,Técnico
+Camila Martins,29.0,79990,Rio de Janeiro,21/09/2025,Cientista de Dados
+Bruno Almeida,54.0,23300,São Paulo,27/07/2021,Desenvolvedor
+Maria Souza,33.0,74820,Minas Gerais,18/02/2025,Técnico
+João Silva,34.0,52350,São Paulo,05/10/2018,Cientista de Dados
+Bruno Almeida,28.0,85830,Paraná,12/09/2021,Estagiário
+Ana Costa,28.0,91930,São Paulo,22/04/2021,Analista
+  Bruno Almeida  ,28.0,137920,São Paulo,17/01/2019,Desenvolvedor
+Pedro Lima,56.0,89130,São Paulo,19/02/2019,Analista
+Maria Souza,37.0,146590,Minas Gerais,27/06/2023,Estagiário
+Bruno Almeida,41.0,48560,Paraná,14/12/2020,Analista
+Lucas Pereira,54.0,129000,Santa Catarina,08/05/2019,Técnico
+Pedro Lima,20.0,87360,São Paulo,19/11/2022,Cientista de Dados
+  Maria Souza  ,23.0,81580,Bahia,11/03/2024,Estagiário
+Camila Martins,55.0,103610,Minas Gerais,25/08/2022,Analista
+Maria Souza,54.0,145720,São Paulo,03/01/2024,Gerente
+Fernanda Rocha,20.0,46210,São Paulo,13/08/2019,Estagiário
+Juliana Santos,62.0,56920,São Paulo,01/05/2023,Cientista de Dados
+Carlos Oliveira,49.0,132060,São Paulo,05/07/2019,Técnico
+Bruno Almeida,56.0,123760,São Paulo,15/12/2022,Técnico
+Juliana Santos,21.0,102420,São Paulo,28/06/2021,Analista
+João Silva,29.0,49580,RJ,18/10/2020,Analista
+Fernanda Rocha,50.0,83030,São Paulo,06/05/2018,Cientista de Dados
+Camila Martins,31.0,54260,RJ,26/04/2020,Cientista de Dados
+João Silva,48.0,39670,São Paulo,04/02/2018,Desenvolvedor
+Carlos Oliveira,45.0,79680,Minas Gerais,29/10/2020,Estagiário
+Maria Souza,18.0,101800,Minas Gerais,04/05/2025,Desenvolvedor
+Carlos Oliveira,58.0,71270,Rio de Janeiro,05/11/2025,Gerente
+Ana Costa,21.0,149960,Santa Catarina,29/05/2025,Estagiário
+Carlos Oliveira,44.0,84280,Minas Gerais,25/05/2018,Cientista de Dados
+Ana Costa,61.0,105590,Paraná,01/08/2022,Cientista de Dados
+Carlos Oliveira,24.0,95130,São Paulo,25/11/2020,Cientista de Dados
+Juliana Santos,59.0,32630,RJ,07/03/2020,Gerente
+Camila Martins,36.0,93980,São Paulo,08/08/2018,Estagiário
+Camila Martins,47.0,41460,Minas Gerais,09/01/2020,Cientista de Dados
+João Silva,46.0,62810,RJ,18/06/2024,Técnico
+Bruno Almeida,43.0,88290,Paraná,20/01/2018,Estagiário
+Lucas Pereira,30.0,20930,São Paulo,16/10/2020,Cientista de Dados
+Camila Martins,37.0,45360,São Paulo,06/05/2021,Analista
+Camila Martins,50.0,45680,São Paulo,22/12/2025,Gerente
+Camila Martins,21.0,115300,São Paulo,19/03/2019,Cientista de Dados
+Maria Souza,53.0,59400,Paraná,20/09/2019,Cientista de Dados
+Lucas Pereira,35.0,120030,Santa Catarina,16/07/2019,Cientista de Dados
+Maria Souza,24.0,99540,RJ,29/03/2020,Desenvolvedor
+Pedro Lima,20.0,107800,Paraná,19/09/2025,Técnico
+Camila Martins,60.0,98950,São Paulo,27/09/2023,Analista
+Carlos Oliveira,34.0,94060,São Paulo,17/12/2019,Analista
+Maria Souza,24.0,142220,São Paulo,21/07/2019,Analista
+Carlos Oliveira,64.0,33220,Minas Gerais,20/01/2020,Gerente
+Fernanda Rocha,44.0,124300,São Paulo,27/06/2019,Analista
+Camila Martins,48.0,149440,Santa Catarina,30/11/2022,Cientista de Dados
+Lucas Pereira,65.0,112470,Santa Catarina,06/07/2025,Técnico
+Lucas Pereira,53.0,51890,Paraná,28/01/2022,Gerente
+Camila Martins,48.0,135410,São Paulo,28/01/2023,Cientista de Dados
+Carlos Oliveira,53.0,103520,Minas Gerais,12/03/2019,Cientista de Dados
+Bruno Almeida,24.0,59660,Santa Catarina,08/02/2020,Técnico
+Juliana Santos,24.0,142050,Minas Gerais,02/06/2025,Analista
+Lucas Pereira,26.0,99720,São Paulo,18/07/2018,Desenvolvedor
+Pedro Lima,62.0,112790,São Paulo,10/06/2019,Cientista de Dados
+Bruno Almeida,44.0,117770,RJ,18/06/2022,Gerente
+Lucas Pereira,37.0,132930,Bahia,25/12/2025,Gerente
+Carlos Oliveira,61.0,74570,São Paulo,16/04/2025,Cientista de Dados
+Juliana Santos,53.0,96700,Santa Catarina,25/06/2025,Desenvolvedor
+Carlos Oliveira,61.0,59050,São Paulo,29/09/2025,Analista
+Camila Martins,61.0,139150,Bahia,04/04/2025,Técnico
+Fernanda Rocha,32.0,121830,Minas Gerais,17/02/2024,Desenvolvedor
+Pedro Lima,61.0,30200,São Paulo,06/10/2023,Técnico
+Carlos Oliveira,49.0,147410,Santa Catarina,06/01/2022,Desenvolvedor
+Maria Souza,50.0,44110,Minas Gerais,09/01/2024,Desenvolvedor
+Juliana Santos,36.0,53790,São Paulo,30/04/2023,Desenvolvedor
+Fernanda Rocha,33.0,123220,Santa Catarina,25/09/2020,Desenvolvedor
+Bruno Almeida,34.0,106510,Rio de Janeiro,19/10/2023,Analista
+Ana Costa,38.0,102190,São Paulo,17/11/2019,Analista
+Ana Costa,61.0,87500,São Paulo,01/12/2024,Técnico
+Lucas Pereira,22.0,112200,RJ,28/07/2022,Gerente
+Carlos Oliveira,56.0,32170,Rio de Janeiro,12/04/2022,Estagiário
+Bruno Almeida,52.0,66320,São Paulo,08/06/2025,Gerente
+Pedro Lima,25.0,24840,São Paulo,09/09/2024,Desenvolvedor
+Juliana Santos,31.0,85600,Bahia,22/10/2019,Técnico
+Camila Martins,49.0,72200,Minas Gerais,07/12/2025,Técnico
+Fernanda Rocha,46.0,71790,Santa Catarina,06/06/2021,Cientista de Dados
+Bruno Almeida,28.0,18790,Minas Gerais,26/06/2020,Técnico
+Juliana Santos,48.0,93830,Paraná,05/06/2021,Gerente
+Pedro Lima,52.0,50180,Rio de Janeiro,10/01/2025,Cientista de Dados
+Camila Martins,55.0,84370,Santa Catarina,31/05/2018,Técnico
+Pedro Lima,41.0,82300,RJ,06/04/2021,Desenvolvedor
+Ana Costa,57.0,130090,São Paulo,29/07/2019,Desenvolvedor
+Pedro Lima,65.0,137930,Paraná,15/06/2018,Gerente
+Ana Costa,51.0,147670,Minas Gerais,08/04/2023,Estagiário
+Lucas Pereira,58.0,62800,Rio de Janeiro,02/08/2024,Desenvolvedor
+Maria Souza,51.0,59210,Minas Gerais,17/10/2023,Técnico
+Juliana Santos,56.0,135520,São Paulo,01/08/2020,Cientista de Dados
+Ana Costa,55.0,44410,Minas Gerais,25/09/2020,Analista
+  Camila Martins  ,27.0,27160,São Paulo,01/08/2020,Gerente
+Carlos Oliveira,23.0,53480,Paraná,15/04/2023,Desenvolvedor
+Pedro Lima,57.0,126070,Bahia,18/11/2019,Gerente
+Bruno Almeida,42.0,39660,São Paulo,04/08/2020,Analista
+Maria Souza,29.0,95960,Santa Catarina,06/09/2018,Desenvolvedor
+Camila Martins,52.0,18190,Minas Gerais,20/09/2022,Desenvolvedor
+Fernanda Rocha,42.0,75420,Santa Catarina,24/10/2025,Cientista de Dados
+Ana Costa,62.0,149770,Minas Gerais,23/01/2022,Estagiário
+Bruno Almeida,54.0,77900,Santa Catarina,19/08/2025,Gerente
+Juliana Santos,53.0,108910,Paraná,06/10/2021,Gerente
+Maria Souza,65.0,55640,Paraná,25/10/2019,Cientista de Dados
+João Silva,28.0,81750,São Paulo,19/08/2019,Analista
+Maria Souza,56.0,24180,Minas Gerais,19/11/2024,Estagiário
+Pedro Lima,58.0,98990,Paraná,04/06/2020,Analista
+Carlos Oliveira,43.0,75850,Minas Gerais,28/07/2024,Estagiário
+Carlos Oliveira,64.0,109600,Santa Catarina,24/11/2021,Gerente
+Carlos Oliveira,52.0,147980,Santa Catarina,14/10/2025,Gerente
+Fernanda Rocha,61.0,93480,Santa Catarina,29/05/2023,Analista
+Ana Costa,38.0,85570,Minas Gerais,04/01/2024,Desenvolvedor
+Juliana Santos,22.0,108850,São Paulo,09/07/2021,Estagiário
+Ana Costa,49.0,138760,RJ,18/09/2020,Técnico
+Pedro Lima,24.0,37640,São Paulo,10/06/2025,Cientista de Dados
+Fernanda Rocha,41.0,119690,Minas Gerais,11/06/2024,Estagiário
+Ana Costa,54.0,39010,São Paulo,30/09/2022,Desenvolvedor
+Carlos Oliveira,29.0,107870,Rio de Janeiro,08/01/2021,Técnico
+Bruno Almeida,62.0,141230,Minas Gerais,29/06/2022,Gerente
+Maria Souza,64.0,62220,RJ,06/11/2022,Desenvolvedor
+João Silva,29.0,87060,Paraná,27/01/2025,Técnico
+Camila Martins,21.0,83270,São Paulo,01/11/2019,Cientista de Dados
+Juliana Santos,34.0,77140,Minas Gerais,02/04/2024,Desenvolvedor
+Camila Martins,30.0,112510,Santa Catarina,04/12/2025,Cientista de Dados
+Fernanda Rocha,65.0,91220,São Paulo,18/11/2024,Estagiário
+Carlos Oliveira,56.0,123610,Minas Gerais,28/12/2022,Gerente
+  Bruno Almeida  ,37.0,55570,RJ,09/03/2021,Cientista de Dados
+Juliana Santos,38.0,96010,Paraná,20/01/2021,Desenvolvedor
+Camila Martins,47.0,121390,Santa Catarina,15/11/2023,Estagiário
+Maria Souza,46.0,68440,Minas Gerais,30/11/2020,Estagiário
+Juliana Santos,36.0,94870,São Paulo,18/09/2025,Analista
+Carlos Oliveira,56.0,55880,São Paulo,11/03/2022,Desenvolvedor
+Bruno Almeida,42.0,54140,Rio de Janeiro,26/09/2022,Analista
+Carlos Oliveira,36.0,124240,Bahia,19/08/2022,Gerente
+Carlos Oliveira,35.0,38480,Paraná,03/02/2018,Cientista de Dados
+  Carlos Oliveira  ,42.0,20060,São Paulo,16/10/2020,Cientista de Dados
+Fernanda Rocha,65.0,144310,São Paulo,20/06/2025,Desenvolvedor
+João Silva,65.0,108040,Bahia,03/11/2020,Analista
+Ana Costa,25.0,56660,Minas Gerais,03/03/2018,Gerente
+Camila Martins,39.0,142440,São Paulo,27/12/2021,Analista
+Juliana Santos,53.0,147190,Minas Gerais,01/03/2020,Estagiário
+Fernanda Rocha,63.0,89680,Bahia,02/02/2024,Gerente
+Fernanda Rocha,35.0,116080,Bahia,10/10/2018,Técnico
+João Silva,58.0,100890,Minas Gerais,30/01/2020,Cientista de Dados
+Maria Souza,60.0,106300,Minas Gerais,17/11/2023,Técnico
+Juliana Santos,25.0,33770,Bahia,01/10/2018,Cientista de Dados
+Fernanda Rocha,30.0,34170,São Paulo,13/03/2025,Desenvolvedor
+Juliana Santos,32.0,117270,São Paulo,05/04/2020,Analista
+João Silva,41.0,109420,São Paulo,11/12/2025,Gerente
+Carlos Oliveira,22.0,53370,Bahia,19/02/2019,Analista
+Camila Martins,58.0,47310,Bahia,05/04/2024,Cientista de Dados
+Bruno Almeida,24.0,45330,São Paulo,07/03/2022,Desenvolvedor
+Juliana Santos,38.0,108120,Minas Gerais,16/08/2022,Gerente
+Ana Costa,42.0,143450,Bahia,06/11/2020,Cientista de Dados
+  Carlos Oliveira  ,56.0,20670,Bahia,21/05/2021,Técnico
+Carlos Oliveira,53.0,101760,Bahia,30/05/2024,Desenvolvedor
+Camila Martins,33.0,56170,Rio de Janeiro,01/12/2019,Gerente
+Fernanda Rocha,29.0,97990,Santa Catarina,09/04/2024,Analista
+João Silva,39.0,75000,Minas Gerais,09/05/2019,Estagiário
+Bruno Almeida,21.0,67930,Bahia,31/07/2021,Analista
+Bruno Almeida,46.0,141340,Santa Catarina,30/08/2023,Desenvolvedor
+Pedro Lima,48.0,109630,RJ,06/08/2022,Estagiário
+Juliana Santos,40.0,115300,São Paulo,25/11/2019,Gerente
+Carlos Oliveira,53.0,97130,Santa Catarina,08/02/2019,Cientista de Dados
+Bruno Almeida,60.0,62450,Minas Gerais,20/03/2018,Analista
+Maria Souza,38.0,97400,Santa Catarina,27/12/2018,Desenvolvedor
+João Silva,33.0,104730,Rio de Janeiro,30/06/2023,Gerente
+  Carlos Oliveira  ,33.0,100120,Rio de Janeiro,07/01/2025,Analista
+Lucas Pereira,35.0,54950,São Paulo,29/05/2022,Gerente
+Ana Costa,44.0,57380,Santa Catarina,13/10/2022,Técnico
+Pedro Lima,55.0,106690,RJ,19/06/2021,Técnico
+Pedro Lima,59.0,110540,São Paulo,10/05/2018,Gerente
+Pedro Lima,64.0,22830,Minas Gerais,12/08/2022,Estagiário
+Camila Martins,32.0,55830,São Paulo,22/11/2018,Gerente
+  Juliana Santos  ,29.0,81480,Paraná,18/07/2019,Estagiário
+Carlos Oliveira,44.0,54460,RJ,28/09/2018,Técnico
+Juliana Santos,47.0,58430,Minas Gerais,21/06/2018,Estagiário
+Camila Martins,56.0,105840,Bahia,24/11/2025,Cientista de Dados
+Ana Costa,51.0,106120,Minas Gerais,06/10/2018,Cientista de Dados
+Fernanda Rocha,43.0,67890,Rio de Janeiro,13/11/2019,Estagiário
+Fernanda Rocha,59.0,92000,São Paulo,13/08/2023,Cientista de Dados
+Bruno Almeida,44.0,70990,Paraná,03/01/2020,Analista
+Carlos Oliveira,38.0,131330,São Paulo,22/05/2019,Cientista de Dados
+Bruno Almeida,64.0,147600,Bahia,17/10/2019,Desenvolvedor
+Pedro Lima,28.0,41690,São Paulo,30/07/2018,Cientista de Dados
+Lucas Pereira,35.0,119540,São Paulo,20/07/2018,Técnico
+Camila Martins,56.0,66890,Minas Gerais,20/07/2018,Analista
+Camila Martins,54.0,146990,Bahia,02/09/2023,Técnico
+Juliana Santos,42.0,29080,Minas Gerais,23/09/2018,Desenvolvedor
+Bruno Almeida,51.0,52380,RJ,27/08/2018,Desenvolvedor
+Camila Martins,63.0,65050,Minas Gerais,20/07/2021,Desenvolvedor
+Camila Martins,49.0,103140,Paraná,01/07/2020,Estagiário
+Fernanda Rocha,58.0,148530,São Paulo,29/04/2020,Cientista de Dados
+Ana Costa,18.0,122950,RJ,27/02/2021,Cientista de Dados
+João Silva,25.0,130360,Minas Gerais,06/11/2022,Gerente
+Juliana Santos,61.0,96490,Paraná,29/03/2025,Analista
+Juliana Santos,47.0,146440,Minas Gerais,18/08/2018,Cientista de Dados
+Ana Costa,54.0,130310,Minas Gerais,29/09/2018,Gerente
+Pedro Lima,54.0,117230,Minas Gerais,03/09/2024,Técnico
+João Silva,35.0,85800,São Paulo,31/08/2020,Estagiário
+Maria Souza,41.0,146600,São Paulo,15/01/2019,Técnico
+Pedro Lima,31.0,136710,São Paulo,05/07/2022,Estagiário
+Camila Martins,23.0,72600,São Paulo,27/02/2019,Analista
+Ana Costa,38.0,50850,RJ,02/07/2021,Gerente
+Carlos Oliveira,25.0,20490,Santa Catarina,07/10/2023,Desenvolvedor
+  Carlos Oliveira  ,54.0,58110,São Paulo,29/06/2021,Analista
+João Silva,24.0,80840,São Paulo,13/10/2022,Analista
+Fernanda Rocha,57.0,76260,Rio de Janeiro,22/03/2020,Gerente
+Fernanda Rocha,54.0,39590,São Paulo,03/04/2023,Cientista de Dados
+Ana Costa,32.0,41540,Santa Catarina,28/01/2022,Gerente
+Juliana Santos,47.0,97870,São Paulo,01/05/2023,Analista
+Camila Martins,54.0,38870,Bahia,20/07/2022,Analista
+Lucas Pereira,47.0,83660,Santa Catarina,09/04/2020,Estagiário
+Ana Costa,62.0,114820,Minas Gerais,12/05/2024,Estagiário
+Camila Martins,49.0,36730,Santa Catarina,12/03/2023,Desenvolvedor
+Camila Martins,58.0,18030,São Paulo,04/09/2019,Cientista de Dados
+Juliana Santos,37.0,111430,Rio de Janeiro,19/01/2026,Estagiário
+Pedro Lima,36.0,28220,Minas Gerais,06/08/2018,Desenvolvedor
+João Silva,33.0,88730,Santa Catarina,04/01/2025,Estagiário
+Pedro Lima,48.0,40780,RJ,25/04/2022,Desenvolvedor
+Pedro Lima,18.0,29750,São Paulo,02/02/2026,Técnico
+Bruno Almeida,47.0,147250,Santa Catarina,27/12/2024,Estagiário
+Ana Costa,29.0,87590,Santa Catarina,25/06/2024,Analista
+Lucas Pereira,54.0,78120,São Paulo,16/05/2024,Analista
+Fernanda Rocha,54.0,138220,Minas Gerais,16/12/2021,Estagiário
+Maria Souza,26.0,100830,São Paulo,29/10/2020,Gerente
+Camila Martins,29.0,114950,São Paulo,04/01/2023,Cientista de Dados
+Lucas Pereira,20.0,74170,São Paulo,05/09/2024,Técnico
+João Silva,28.0,94020,Minas Gerais,19/05/2021,Estagiário
+Bruno Almeida,48.0,61020,São Paulo,16/11/2022,Desenvolvedor
+Lucas Pereira,61.0,24720,São Paulo,23/02/2025,Desenvolvedor
+Juliana Santos,35.0,61750,São Paulo,05/04/2025,Gerente
+Camila Martins,30.0,103180,São Paulo,28/09/2025,Cientista de Dados
+  Bruno Almeida  ,24.0,104050,São Paulo,01/01/2023,Cientista de Dados
+Maria Souza,21.0,115340,RJ,26/02/2025,Desenvolvedor
+Carlos Oliveira,34.0,47150,Paraná,08/07/2023,Analista
+Fernanda Rocha,19.0,99540,São Paulo,07/03/2025,Cientista de Dados
+Bruno Almeida,54.0,18600,Bahia,03/07/2023,Cientista de Dados
+Lucas Pereira,32.0,18540,Minas Gerais,29/05/2023,Cientista de Dados
+Pedro Lima,53.0,24440,Minas Gerais,22/02/2020,Cientista de Dados
+Lucas Pereira,47.0,129090,Bahia,01/07/2024,Técnico
+Camila Martins,28.0,114830,São Paulo,13/04/2019,Analista
+Juliana Santos,65.0,129140,Minas Gerais,05/10/2019,Gerente
+João Silva,55.0,46410,Minas Gerais,10/05/2019,Analista
+Fernanda Rocha,33.0,113350,São Paulo,14/02/2019,Técnico
+João Silva,18.0,47390,São Paulo,23/04/2025,Cientista de Dados
+Pedro Lima,31.0,41440,Rio de Janeiro,19/01/2023,Desenvolvedor
+Fernanda Rocha,57.0,32420,Rio de Janeiro,12/09/2022,Gerente
+Camila Martins,41.0,142700,Bahia,17/06/2020,Desenvolvedor
+Maria Souza,22.0,56550,Paraná,02/07/2024,Desenvolvedor
+Maria Souza,38.0,55310,São Paulo,17/08/2022,Técnico
+Bruno Almeida,27.0,53410,Santa Catarina,31/12/2019,Estagiário
+Juliana Santos,32.0,66350,Santa Catarina,26/02/2025,Técnico
+Bruno Almeida,51.0,98150,RJ,24/04/2023,Desenvolvedor
+Juliana Santos,45.0,112930,São Paulo,09/03/2019,Desenvolvedor
+Lucas Pereira,20.0,87740,Bahia,18/05/2023,Estagiário
+João Silva,62.0,137890,Minas Gerais,28/06/2019,Técnico
+Carlos Oliveira,28.0,133220,Paraná,18/07/2024,Desenvolvedor
+João Silva,36.0,87770,Rio de Janeiro,13/11/2024,Cientista de Dados
+Juliana Santos,65.0,26980,Bahia,30/01/2022,Cientista de Dados
+Pedro Lima,59.0,109550,São Paulo,15/12/2025,Desenvolvedor
+Camila Martins,62.0,52370,RJ,15/12/2021,Gerente
+Fernanda Rocha,49.0,100150,Bahia,04/10/2023,Analista
+  Maria Souza  ,28.0,63210,São Paulo,30/08/2019,Cientista de Dados
+Bruno Almeida,61.0,106700,São Paulo,21/11/2021,Estagiário
+Ana Costa,51.0,123620,Minas Gerais,28/06/2024,Estagiário
+Lucas Pereira,53.0,90950,Paraná,12/05/2024,Gerente
+Juliana Santos,36.0,144110,São Paulo,17/12/2021,Técnico
+Ana Costa,53.0,133850,São Paulo,22/07/2021,Cientista de Dados
+Maria Souza,19.0,84280,Paraná,20/02/2023,Técnico
+Carlos Oliveira,48.0,65480,Santa Catarina,26/08/2019,Cientista de Dados
+Fernanda Rocha,20.0,40840,Bahia,15/06/2021,Analista
+João Silva,56.0,123070,RJ,27/11/2023,Desenvolvedor
+Fernanda Rocha,61.0,128020,São Paulo,04/06/2022,Desenvolvedor
+Maria Souza,31.0,137250,Paraná,30/08/2022,Cientista de Dados
+Bruno Almeida,26.0,114200,Santa Catarina,12/08/2019,Analista
+Camila Martins,42.0,32490,São Paulo,01/03/2025,Estagiário
+Fernanda Rocha,32.0,22390,São Paulo,11/12/2020,Técnico
+Juliana Santos,55.0,96720,Santa Catarina,22/11/2020,Estagiário
+Camila Martins,19.0,60520,São Paulo,28/08/2018,Desenvolvedor
+Carlos Oliveira,41.0,86730,Minas Gerais,02/04/2021,Analista
+Pedro Lima,24.0,116100,São Paulo,14/08/2021,Desenvolvedor
+Juliana Santos,24.0,105550,Santa Catarina,12/08/2019,Gerente
+Pedro Lima,24.0,53690,São Paulo,24/06/2020,Desenvolvedor
+Lucas Pereira,63.0,108290,São Paulo,02/03/2023,Estagiário
+Juliana Santos,26.0,90400,Santa Catarina,02/11/2021,Desenvolvedor
+Pedro Lima,62.0,55120,Rio de Janeiro,09/05/2020,Técnico
+João Silva,22.0,67420,São Paulo,23/05/2019,Analista
+Maria Souza,27.0,140250,Rio de Janeiro,25/11/2021,Desenvolvedor
+Camila Martins,22.0,34230,Santa Catarina,07/12/2023,Analista
+João Silva,64.0,34160,RJ,08/12/2025,Desenvolvedor
+Pedro Lima,40.0,80190,Minas Gerais,08/10/2023,Técnico
+Fernanda Rocha,56.0,138610,Rio de Janeiro,24/12/2022,Cientista de Dados
+Maria Souza,48.0,129260,Minas Gerais,22/02/2018,Técnico
+Maria Souza,25.0,41480,Minas Gerais,17/10/2025,Estagiário
+Juliana Santos,30.0,73480,RJ,14/07/2022,Desenvolvedor
+Camila Martins,55.0,62720,Minas Gerais,05/03/2023,Gerente
+Fernanda Rocha,24.0,38010,Rio de Janeiro,30/07/2023,Estagiário
+Maria Souza,49.0,129100,São Paulo,17/04/2022,Técnico
+Maria Souza,60.0,141140,Bahia,24/03/2023,Estagiário
+  Lucas Pereira  ,52.0,20890,São Paulo,03/05/2019,Estagiário
+Pedro Lima,53.0,126030,Rio de Janeiro,04/11/2019,Cientista de Dados
+Camila Martins,61.0,98370,Bahia,19/01/2024,Cientista de Dados
+Carlos Oliveira,49.0,114830,Minas Gerais,02/08/2025,Desenvolvedor
+Pedro Lima,41.0,75150,Santa Catarina,04/01/2025,Analista
+João Silva,60.0,58010,RJ,08/04/2025,Técnico
+Juliana Santos,28.0,21220,Bahia,03/06/2018,Gerente
+João Silva,62.0,94950,Santa Catarina,20/07/2021,Analista
+Ana Costa,39.0,99380,Bahia,22/10/2021,Cientista de Dados
+Maria Souza,52.0,53070,Rio de Janeiro,14/07/2018,Gerente
+Maria Souza,59.0,67450,Bahia,11/09/2022,Gerente
+Fernanda Rocha,60.0,143080,Bahia,18/03/2018,Técnico
+Ana Costa,27.0,140290,Rio de Janeiro,08/08/2022,Estagiário
+  Carlos Oliveira  ,36.0,123840,São Paulo,14/09/2025,Gerente
+  Carlos Oliveira  ,47.0,97520,Bahia,25/09/2022,Estagiário
+Carlos Oliveira,60.0,108220,São Paulo,22/06/2018,Cientista de Dados
+Camila Martins,37.0,28410,Minas Gerais,14/07/2025,Gerente
+Ana Costa,25.0,111540,Bahia,11/08/2023,Analista
+Maria Souza,33.0,116270,São Paulo,09/10/2021,Gerente
+Ana Costa,27.0,35500,São Paulo,29/01/2021,Técnico
+Maria Souza,38.0,107410,Minas Gerais,28/08/2025,Estagiário
+Juliana Santos,37.0,21450,Santa Catarina,05/06/2025,Analista
+Carlos Oliveira,58.0,132780,Minas Gerais,15/05/2019,Cientista de Dados
+Bruno Almeida,34.0,67290,São Paulo,03/05/2021,Técnico
+Bruno Almeida,20.0,62890,São Paulo,14/04/2023,Estagiário
+Maria Souza,28.0,132430,Rio de Janeiro,29/09/2018,Desenvolvedor
+João Silva,21.0,123080,São Paulo,22/12/2022,Cientista de Dados
+Maria Souza,25.0,43850,RJ,01/01/2026,Desenvolvedor
+Juliana Santos,46.0,96370,São Paulo,12/12/2019,Gerente
+Juliana Santos,29.0,82470,Minas Gerais,08/07/2020,Desenvolvedor
+Maria Souza,47.0,50480,Rio de Janeiro,23/11/2019,Cientista de Dados
+Juliana Santos,28.0,110930,São Paulo,22/01/2026,Analista
+Maria Souza,32.0,134910,RJ,26/12/2020,Técnico
+Ana Costa,36.0,137060,RJ,09/01/2020,Estagiário
+Ana Costa,48.0,76040,Santa Catarina,16/09/2024,Cientista de Dados
+Carlos Oliveira,43.0,127970,Minas Gerais,10/04/2024,Técnico
+Fernanda Rocha,26.0,32680,São Paulo,13/12/2023,Cientista de Dados
+Carlos Oliveira,65.0,77070,Minas Gerais,14/12/2020,Gerente
+Pedro Lima,38.0,138720,Paraná,26/03/2024,Técnico
+Pedro Lima,20.0,95040,Rio de Janeiro,01/12/2025,Técnico
+Juliana Santos,63.0,109890,Paraná,13/07/2023,Estagiário
+Carlos Oliveira,29.0,45570,Bahia,26/04/2024,Gerente
+Camila Martins,29.0,86220,São Paulo,08/03/2023,Técnico
+Carlos Oliveira,56.0,125800,São Paulo,29/06/2018,Gerente
+Camila Martins,26.0,52630,São Paulo,04/03/2021,Cientista de Dados
+Pedro Lima,25.0,66910,Paraná,24/06/2021,Estagiário
+Pedro Lima,45.0,121330,Minas Gerais,15/06/2018,Analista
+Pedro Lima,49.0,104380,Bahia,05/04/2021,Analista
+Pedro Lima,61.0,67210,RJ,18/10/2022,Desenvolvedor
+Lucas Pereira,45.0,85660,São Paulo,30/05/2025,Estagiário
+Camila Martins,64.0,97740,Rio de Janeiro,01/12/2024,Desenvolvedor
+Maria Souza,26.0,40130,São Paulo,04/04/2019,Técnico
+Maria Souza,28.0,42970,Paraná,16/04/2023,Estagiário
+Bruno Almeida,21.0,72690,São Paulo,26/01/2025,Analista
+Lucas Pereira,36.0,24060,Paraná,15/06/2023,Estagiário
+Fernanda Rocha,32.0,135020,São Paulo,19/03/2018,Desenvolvedor
+Fernanda Rocha,25.0,99060,Santa Catarina,21/11/2021,Cientista de Dados
+Juliana Santos,46.0,56020,Bahia,08/04/2024,Técnico
+Pedro Lima,36.0,136450,Minas Gerais,20/07/2025,Estagiário
+Camila Martins,31.0,64270,São Paulo,01/06/2023,Cientista de Dados
+Fernanda Rocha,37.0,56450,RJ,12/07/2018,Desenvolvedor
+Lucas Pereira,20.0,28430,Minas Gerais,04/12/2019,Estagiário
+Juliana Santos,20.0,144170,Bahia,09/12/2019,Gerente
+Fernanda Rocha,47.0,141820,São Paulo,11/05/2024,Analista
+Maria Souza,28.0,121200,São Paulo,21/01/2022,Técnico
+Maria Souza,27.0,124010,Minas Gerais,19/07/2019,Gerente
+Ana Costa,48.0,73920,Rio de Janeiro,03/12/2019,Desenvolvedor
+Ana Costa,27.0,141400,Bahia,23/07/2020,Estagiário
+Lucas Pereira,61.0,77270,São Paulo,20/08/2019,Estagiário
+Bruno Almeida,28.0,89110,São Paulo,06/01/2018,Estagiário
+Lucas Pereira,36.0,86690,Minas Gerais,11/10/2025,Cientista de Dados
+Carlos Oliveira,51.0,118000,São Paulo,13/07/2022,Cientista de Dados
+  Lucas Pereira  ,52.0,64510,RJ,27/09/2023,Analista
+Lucas Pereira,55.0,60380,RJ,23/02/2026,Gerente
+Lucas Pereira,40.0,38280,São Paulo,26/05/2019,Cientista de Dados
+Camila Martins,54.0,135080,Bahia,15/08/2020,Desenvolvedor
+Pedro Lima,63.0,79870,Bahia,11/10/2020,Cientista de Dados
+Juliana Santos,61.0,104220,Minas Gerais,04/08/2024,Desenvolvedor
+Fernanda Rocha,62.0,98200,Minas Gerais,15/08/2019,Técnico
+Lucas Pereira,25.0,131780,RJ,23/04/2023,Estagiário
+Fernanda Rocha,18.0,38040,Bahia,04/10/2018,Gerente
+Bruno Almeida,48.0,135970,Santa Catarina,22/07/2019,Técnico
+Juliana Santos,23.0,149040,Santa Catarina,29/12/2024,Cientista de Dados
+Fernanda Rocha,65.0,63440,São Paulo,06/12/2025,Técnico
+Fernanda Rocha,50.0,21050,São Paulo,19/12/2023,Cientista de Dados
+Camila Martins,46.0,31860,Bahia,05/08/2021,Desenvolvedor
+Pedro Lima,44.0,21940,Bahia,14/04/2022,Gerente
+João Silva,37.0,81880,São Paulo,07/08/2019,Gerente
+João Silva,30.0,57250,Santa Catarina,26/08/2020,Desenvolvedor
+Juliana Santos,47.0,108620,Minas Gerais,07/06/2023,Analista
+Camila Martins,61.0,34630,RJ,22/04/2025,Desenvolvedor
+Ana Costa,27.0,79160,Bahia,10/01/2020,Técnico
+Fernanda Rocha,57.0,65390,São Paulo,04/09/2018,Analista
+Pedro Lima,64.0,109170,Rio de Janeiro,13/05/2020,Estagiário
+  Carlos Oliveira  ,63.0,92170,Rio de Janeiro,05/06/2025,Técnico
+Pedro Lima,59.0,18330,Santa Catarina,18/01/2018,Estagiário
+Bruno Almeida,52.0,31290,São Paulo,05/07/2018,Desenvolvedor
+Camila Martins,40.0,81360,São Paulo,04/02/2018,Cientista de Dados
+João Silva,35.0,129500,Minas Gerais,01/04/2019,Técnico
+Juliana Santos,20.0,63990,Paraná,12/05/2025,Cientista de Dados
+Carlos Oliveira,54.0,99970,Paraná,10/03/2024,Técnico
+Maria Souza,55.0,39010,São Paulo,29/11/2020,Técnico
+João Silva,62.0,129040,Bahia,11/01/2020,Desenvolvedor
+João Silva,38.0,88860,Minas Gerais,14/05/2019,Gerente
+Bruno Almeida,19.0,115080,Minas Gerais,09/10/2020,Gerente
+Lucas Pereira,33.0,29940,Santa Catarina,02/12/2022,Desenvolvedor
+Carlos Oliveira,42.0,83810,São Paulo,11/08/2022,Desenvolvedor
+Fernanda Rocha,45.0,119610,Santa Catarina,23/10/2021,Analista
+Ana Costa,24.0,34820,São Paulo,31/12/2025,Desenvolvedor
+Lucas Pereira,34.0,76220,Minas Gerais,16/02/2026,Estagiário
+Carlos Oliveira,55.0,89400,Bahia,05/01/2022,Cientista de Dados
+Camila Martins,39.0,65680,Minas Gerais,22/10/2023,Analista
+Lucas Pereira,21.0,87150,Minas Gerais,31/03/2020,Técnico
+Fernanda Rocha,56.0,131440,Minas Gerais,07/05/2024,Desenvolvedor
+João Silva,49.0,53940,São Paulo,07/02/2020,Cientista de Dados
+Carlos Oliveira,46.0,49850,Santa Catarina,29/06/2018,Gerente
+Pedro Lima,39.0,108850,RJ,13/03/2020,Técnico
+Pedro Lima,42.0,125290,São Paulo,11/05/2020,Gerente
+Lucas Pereira,57.0,89060,São Paulo,15/08/2019,Analista
+Camila Martins,45.0,122220,RJ,28/11/2024,Analista
+João Silva,58.0,148350,Rio de Janeiro,13/09/2023,Técnico
+Camila Martins,22.0,45430,Bahia,27/03/2025,Estagiário
+  Lucas Pereira  ,62.0,97180,Paraná,01/04/2021,Estagiário
+Ana Costa,30.0,92060,RJ,14/06/2020,Estagiário
+Carlos Oliveira,53.0,31880,São Paulo,23/04/2021,Analista
+Juliana Santos,45.0,91910,Paraná,03/08/2022,Estagiário
+Ana Costa,34.0,123730,São Paulo,04/12/2018,Gerente
+Ana Costa,24.0,37420,São Paulo,06/06/2018,Gerente
+Carlos Oliveira,30.0,133610,Santa Catarina,01/12/2026,Técnico
+Juliana Santos,43.0,84470,Santa Catarina,18/02/2018,Cientista de Dados
+Ana Costa,32.0,136510,RJ,15/08/2020,Estagiário
+Juliana Santos,23.0,69290,RJ,29/10/2025,Estagiário
+Camila Martins,26.0,68060,São Paulo,22/05/2025,Estagiário
+Lucas Pereira,37.0,71420,Santa Catarina,13/05/2024,Analista
+Fernanda Rocha,58.0,67910,São Paulo,03/04/2019,Técnico
+Pedro Lima,30.0,29380,Minas Gerais,23/04/2020,Gerente
+João Silva,28.0,71530,Minas Gerais,06/10/2019,Estagiário
+Ana Costa,26.0,51690,Rio de Janeiro,16/12/2025,Estagiário
+Lucas Pereira,63.0,130200,Paraná,06/04/2020,Gerente
+Ana Costa,51.0,71880,Santa Catarina,28/02/2023,Estagiário
+Fernanda Rocha,40.0,132730,Rio de Janeiro,15/11/2024,Estagiário
+Bruno Almeida,60.0,48050,Santa Catarina,31/05/2022,Analista
+Lucas Pereira,36.0,127220,São Paulo,23/02/2026,Cientista de Dados
+Maria Souza,41.0,30530,São Paulo,28/08/2021,Desenvolvedor
+Maria Souza,58.0,131780,São Paulo,11/08/2021,Estagiário
+Fernanda Rocha,35.0,44430,São Paulo,22/10/2024,Analista
+João Silva,61.0,62760,São Paulo,06/01/2022,Estagiário
+João Silva,58.0,103660,São Paulo,28/09/2025,Estagiário
+Ana Costa,33.0,79380,RJ,10/01/2019,Técnico
+Maria Souza,32.0,33820,São Paulo,16/11/2019,Cientista de Dados
+  Ana Costa  ,57.0,51930,Bahia,19/10/2022,Estagiário
+Juliana Santos,18.0,81760,RJ,20/06/2020,Estagiário
+Ana Costa,44.0,67400,Santa Catarina,22/02/2019,Estagiário
+Maria Souza,56.0,71140,Minas Gerais,12/10/2025,Cientista de Dados
+Fernanda Rocha,22.0,72900,São Paulo,24/07/2024,Desenvolvedor
+João Silva,32.0,21470,Santa Catarina,19/06/2021,Analista
+Juliana Santos,49.0,66590,RJ,20/03/2022,Técnico
+Fernanda Rocha,65.0,71850,São Paulo,24/07/2021,Gerente
+Carlos Oliveira,19.0,55520,Minas Gerais,19/09/2020,Gerente
+João Silva,58.0,41180,RJ,11/01/2019,Técnico
+Maria Souza,45.0,136780,Paraná,11/04/2019,Gerente
+Camila Martins,46.0,122130,RJ,25/05/2023,Gerente
+Bruno Almeida,50.0,117840,Minas Gerais,29/05/2023,Técnico
+Carlos Oliveira,56.0,106010,São Paulo,24/02/2026,Desenvolvedor
+Camila Martins,48.0,29780,São Paulo,07/01/2026,Técnico
+Juliana Santos,49.0,84280,Minas Gerais,09/03/2022,Estagiário
+João Silva,25.0,81040,Santa Catarina,06/03/2020,Técnico
+Fernanda Rocha,58.0,130800,Minas Gerais,25/08/2018,Cientista de Dados
+Juliana Santos,58.0,133760,São Paulo,19/06/2025,Cientista de Dados
+Ana Costa,56.0,112750,São Paulo,24/04/2019,Analista
+Maria Souza,51.0,48930,Minas Gerais,15/10/2022,Técnico
+Camila Martins,37.0,138240,Minas Gerais,31/12/2018,Cientista de Dados
+Carlos Oliveira,64.0,88600,São Paulo,15/03/2022,Técnico
+Fernanda Rocha,54.0,52820,São Paulo,30/08/2018,Técnico
+João Silva,24.0,52580,Bahia,19/03/2022,Analista
+Juliana Santos,56.0,88360,Minas Gerais,24/08/2025,Gerente
+Bruno Almeida,57.0,27370,Minas Gerais,15/02/2019,Gerente
+Pedro Lima,19.0,116610,São Paulo,18/02/2021,Desenvolvedor
+Fernanda Rocha,32.0,117410,Paraná,14/11/2024,Estagiário
+Maria Souza,64.0,81050,Rio de Janeiro,03/10/2020,Desenvolvedor
+Lucas Pereira,20.0,38940,Paraná,19/05/2021,Analista
+Maria Souza,48.0,126560,Bahia,23/09/2020,Técnico
+João Silva,28.0,71490,Minas Gerais,21/06/2020,Gerente
+Pedro Lima,52.0,121800,Paraná,04/10/2025,Analista
+Juliana Santos,42.0,135540,Minas Gerais,15/03/2025,Cientista de Dados
+Carlos Oliveira,23.0,36240,São Paulo,22/08/2024,Gerente
+Bruno Almeida,54.0,138730,São Paulo,09/11/2018,Gerente
+Juliana Santos,61.0,148500,São Paulo,06/11/2025,Desenvolvedor
+Juliana Santos,27.0,66630,RJ,17/08/2025,Estagiário
+João Silva,56.0,70450,Rio de Janeiro,21/09/2025,Desenvolvedor
+Ana Costa,49.0,65750,Minas Gerais,26/09/2021,Analista
+João Silva,29.0,97870,Minas Gerais,24/05/2025,Gerente
+Juliana Santos,43.0,82070,São Paulo,24/02/2026,Desenvolvedor
+Maria Souza,26.0,70980,Santa Catarina,16/12/2025,Analista
+Carlos Oliveira,27.0,52360,RJ,03/12/2020,Cientista de Dados
+Pedro Lima,42.0,87970,São Paulo,29/01/2019,Analista
+Juliana Santos,55.0,89070,São Paulo,07/02/2026,Cientista de Dados
+  Fernanda Rocha  ,41.0,19900,São Paulo,05/12/2018,Analista
+Camila Martins,54.0,96560,Rio de Janeiro,23/01/2019,Cientista de Dados
+Camila Martins,26.0,34290,São Paulo,01/02/2026,Analista
+Lucas Pereira,51.0,98040,São Paulo,23/07/2024,Desenvolvedor
+Maria Souza,29.0,116150,São Paulo,22/03/2024,Analista
+Pedro Lima,23.0,110150,Rio de Janeiro,13/12/2018,Analista
+João Silva,33.0,67250,São Paulo,16/04/2021,Desenvolvedor
+Juliana Santos,56.0,106180,São Paulo,18/09/2025,Técnico
+Ana Costa,26.0,116650,Bahia,20/08/2024,Técnico
+Carlos Oliveira,42.0,124450,São Paulo,12/02/2023,Estagiário
+Ana Costa,22.0,121140,Rio de Janeiro,25/10/2025,Cientista de Dados
+Lucas Pereira,44.0,28800,Minas Gerais,31/12/2018,Cientista de Dados
+Carlos Oliveira,18.0,34040,Minas Gerais,31/03/2022,Técnico
+Camila Martins,49.0,33650,Bahia,11/09/2025,Gerente
+Pedro Lima,38.0,141180,Minas Gerais,14/11/2021,Técnico
+Bruno Almeida,48.0,115040,São Paulo,02/08/2018,Gerente
+Carlos Oliveira,21.0,136850,Minas Gerais,17/10/2020,Cientista de Dados
+Fernanda Rocha,50.0,64990,Rio de Janeiro,11/03/2023,Estagiário
+Maria Souza,65.0,64830,Bahia,13/02/2018,Estagiário
+Lucas Pereira,62.0,38420,Minas Gerais,29/11/2024,Analista
+Juliana Santos,33.0,139070,Bahia,31/10/2024,Cientista de Dados
+Maria Souza,39.0,129250,RJ,28/04/2019,Desenvolvedor
+Camila Martins,43.0,53620,Rio de Janeiro,13/10/2023,Cientista de Dados
+Ana Costa,23.0,104680,Bahia,10/08/2022,Técnico
+Fernanda Rocha,43.0,79320,Rio de Janeiro,21/10/2022,Gerente
+Fernanda Rocha,28.0,40910,Minas Gerais,13/11/2022,Cientista de Dados
+João Silva,26.0,82640,Minas Gerais,18/09/2021,Cientista de Dados
+Carlos Oliveira,25.0,86990,Paraná,23/07/2023,Desenvolvedor
+  Lucas Pereira  ,64.0,139550,Minas Gerais,26/03/2019,Técnico
+Ana Costa,57.0,42980,Bahia,18/10/2020,Técnico
+Bruno Almeida,30.0,95640,São Paulo,03/11/2026,Cientista de Dados
+Pedro Lima,32.0,37730,São Paulo,07/06/2018,Estagiário
+Maria Souza,21.0,80310,Minas Gerais,06/09/2021,Desenvolvedor
+Lucas Pereira,45.0,123490,São Paulo,27/03/2019,Gerente
+João Silva,29.0,24690,São Paulo,29/05/2025,Analista
+Bruno Almeida,29.0,59330,Paraná,01/10/2021,Gerente
+Pedro Lima,39.0,77070,Minas Gerais,08/09/2024,Cientista de Dados
+Maria Souza,24.0,39370,Santa Catarina,18/06/2018,Analista
+Fernanda Rocha,24.0,30260,Bahia,05/11/2021,Desenvolvedor
+João Silva,26.0,49400,Minas Gerais,24/12/2025,Desenvolvedor
+  Juliana Santos  ,41.0,91470,São Paulo,05/10/2018,Estagiário
+Fernanda Rocha,61.0,105230,Bahia,09/11/2019,Analista
+Carlos Oliveira,31.0,48150,São Paulo,31/05/2024,Técnico
+Lucas Pereira,63.0,136050,Bahia,27/05/2021,Gerente
+Lucas Pereira,33.0,65810,São Paulo,30/08/2019,Cientista de Dados
+Ana Costa,31.0,105580,São Paulo,10/04/2025,Analista
+Ana Costa,64.0,63820,São Paulo,03/06/2018,Gerente
+Bruno Almeida,59.0,60160,Santa Catarina,24/04/2020,Desenvolvedor
+Bruno Almeida,27.0,91080,RJ,22/02/2026,Cientista de Dados
+Pedro Lima,29.0,48940,Santa Catarina,07/03/2026,Estagiário
+Bruno Almeida,61.0,117580,RJ,11/08/2019,Analista
+Lucas Pereira,26.0,137070,São Paulo,13/02/2019,Desenvolvedor
+João Silva,26.0,58680,São Paulo,08/08/2019,Gerente
+Lucas Pereira,65.0,73440,São Paulo,25/07/2019,Técnico
+Fernanda Rocha,27.0,57940,São Paulo,05/10/2025,Desenvolvedor
+Bruno Almeida,61.0,135120,São Paulo,26/11/2019,Estagiário
+Juliana Santos,25.0,77060,São Paulo,12/10/2024,Analista
+Pedro Lima,60.0,130580,Rio de Janeiro,21/03/2021,Desenvolvedor
+Carlos Oliveira,63.0,148850,São Paulo,09/01/2019,Analista
+Fernanda Rocha,22.0,36540,Santa Catarina,24/02/2026,Estagiário
+Juliana Santos,38.0,98970,Minas Gerais,11/10/2025,Estagiário
+Ana Costa,42.0,86590,Bahia,16/01/2024,Estagiário
+Bruno Almeida,51.0,112670,RJ,24/12/2018,Cientista de Dados
+Fernanda Rocha,26.0,36040,São Paulo,18/01/2022,Gerente
+  Bruno Almeida  ,33.0,52520,RJ,19/07/2019,Analista
+Bruno Almeida,41.0,26860,São Paulo,10/07/2024,Cientista de Dados
+Pedro Lima,23.0,58140,São Paulo,20/05/2024,Analista
+Pedro Lima,50.0,44270,São Paulo,10/02/2022,Estagiário
+Camila Martins,50.0,68140,RJ,05/10/2019,Estagiário
+Ana Costa,43.0,119420,São Paulo,26/05/2022,Técnico
+Fernanda Rocha,48.0,69310,Minas Gerais,07/11/2019,Estagiário
+  Maria Souza  ,41.0,116820,Minas Gerais,08/09/2020,Analista
+Carlos Oliveira,30.0,108380,RJ,13/05/2018,Cientista de Dados
+Fernanda Rocha,20.0,25870,Minas Gerais,18/06/2021,Analista
+Juliana Santos,43.0,136890,Minas Gerais,18/11/2025,Técnico
+Pedro Lima,19.0,114200,Minas Gerais,29/07/2024,Estagiário
+Maria Souza,58.0,133320,São Paulo,13/11/2019,Estagiário
+Lucas Pereira,65.0,73440,São Paulo,25/07/2019,Técnico
+Juliana Santos,35.0,148240,Minas Gerais,09/03/2022,Analista
+Juliana Santos,27.0,66630,RJ,17/08/2025,Estagiário
+João Silva,33.0,139330,São Paulo,03/12/2022,Estagiário
+Pedro Lima,39.0,108850,RJ,13/03/2020,Técnico
+Maria Souza,52.0,53070,Rio de Janeiro,14/07/2018,Gerente
+Pedro Lima,24.0,53690,São Paulo,24/06/2020,Desenvolvedor
+Pedro Lima,56.0,134130,São Paulo,08/04/2024,Gerente
+Pedro Lima,52.0,66130,Minas Gerais,24/11/2018,Analista
+Fernanda Rocha,26.0,36040,São Paulo,18/01/2022,Gerente
+Fernanda Rocha,29.0,97990,Santa Catarina,09/04/2024,Analista
+  Carlos Oliveira  ,33.0,100120,Rio de Janeiro,07/01/2025,Analista
+Pedro Lima,31.0,41440,Rio de Janeiro,19/01/2023,Desenvolvedor
+Pedro Lima,24.0,116100,São Paulo,14/08/2021,Desenvolvedor
+Camila Martins,32.0,55830,São Paulo,22/11/2018,Gerente
+Maria Souza,21.0,80310,Minas Gerais,06/09/2021,Desenvolvedor
+Carlos Oliveira,49.0,132060,São Paulo,05/07/2019,Técnico
+Carlos Oliveira,52.0,147980,Santa Catarina,14/10/2025,Gerente
+Lucas Pereira,42.0,86520,Santa Catarina,12/06/2024,Técnico
+Juliana Santos,28.0,21220,Bahia,03/06/2018,Gerente
+Camila Martins,29.0,114950,São Paulo,04/01/2023,Cientista de Dados
+Camila Martins,26.0,52630,São Paulo,04/03/2021,Cientista de Dados
+Ana Costa,56.0,112750,São Paulo,24/04/2019,Analista
+Fernanda Rocha,35.0,47730,Santa Catarina,13/02/2025,Estagiário
